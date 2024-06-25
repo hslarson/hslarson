@@ -1,7 +1,7 @@
 # Hey, my name is Hunter
 
 ## 💡 About Me
-- 🎓 4th-Year Electrical engineering student at UCSB
+- 🎓 Computer Engineering graduate student at UCSB
 - 🦾 Interested in basically anything electronics related
 - 🤖 I also like making bots in python
 
