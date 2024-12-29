@@ -3,10 +3,10 @@
 ## 💡 About Me
 - 🎓 Computer Engineering graduate student at UCSB
 - 🦾 Interested in basically anything electronics related
-- 🤖 I also like making bots in python
 
 ## 🔨 Actively Working On
-- 🔥 [My Capstone Project](https://github.com/FLIR-Safer-Kitchens)
+- 🕹 [Tank Game](https://github.com/hslarson/ECE253-Final-Project)
+- 🔬 [Goniometer](https://github.com/hslarson/Goniometer)
 
 ## 🔧 Currently Maintaining
 - 💧 [Moist Meter](https://github.com/hslarson/Moist-Meter)
